@@ -96,7 +96,7 @@ function orderItem(itemID){
     <a href="./autoLoadTest.html">Catalog Load Tester</a>
      <!--img src="http://hd-wall-papers.com/images/wallpapers/amazing-hd-wallpapers-download/amazing-hd-wallpapers-download-3.jpg" height="100%" width="100%" alt="Oops"-->
      <!--img src="http://hd-wall-papers.com/images/wallpapers/amazing-hd-wallpapers-download/amazing-hd-wallpapers-download-3.jpg" height="100%" width="100%" alt="Oops"-->
-     <img src="https://static.pexels.com/photos/344544/pexels-photo-344544.jpeg" height="100%" width="100%" alt="Oops">
+     <!--img src="https://static.pexels.com/photos/344544/pexels-photo-344544.jpeg" height="100%" width="100%" alt="Oops"-->
      <p>My favorite color is blue</p>
 </body>
 </html> 
